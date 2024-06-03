@@ -1,7 +1,0 @@
-package cmd
-
-
-
-func RunService()  {
-	
-}
